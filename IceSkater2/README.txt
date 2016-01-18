@@ -1,0 +1,1 @@
+g++ ask2.cpp -o askisi2
